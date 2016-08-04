@@ -1,0 +1,50 @@
+Insertion Sort test: 
+Best case: 
+Number of comparisons: 19
+Number of exchanges: 19
+Sorted list :
+1 2 3 4 5 6 7 8 9 10 
+Worst case: 
+Number of comparisons: 43
+Number of exchanges: 43
+Sorted list :
+1 11 18 22 24 28 55 69 87 
+Average case: 
+Number of comparisons: 88
+Number of exchanges: 88
+Sorted list :
+11 18 25 36 47 55 60 75 85 90 
+
+Selection Sort test: 
+Best case: 
+Number of comparisons: 133
+Number of exchanges: 97
+Sorted list :
+1 2 3 4 5 6 7 8 9 10 
+Worst case: 
+Number of comparisons: 169
+Number of exchanges: 105
+Sorted list :
+1 11 18 22 24 28 55 69 87 
+Average case: 
+Number of comparisons: 214
+Number of exchanges: 114
+Sorted list :
+11 18 25 36 47 55 60 75 85 90 
+
+Bubble Sort test: 
+Best case: 
+Number of comparisons: 294
+Number of exchanges: 160
+Sorted list :
+1 2 3 6 7 4 5 8 9 10 
+Worst case: 
+Number of comparisons: 357
+Number of exchanges: 192
+Sorted list :
+1 11 18 28 55 22 24 69 87 
+Average case: 
+Number of comparisons: 437
+Number of exchanges: 238
+Sorted list :
+11 18 25 55 60 36 47 75 85 90 
